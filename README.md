@@ -1,2 +1,2 @@
 # portfolio
-it's for job adventure
+This page shows my main python skills on examples. (please check all branches)
